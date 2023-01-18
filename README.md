@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Moreno Bellini
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on every project that i may be able to help on
 - 📫 email me or just text me for requests 
 
